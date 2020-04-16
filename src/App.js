@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Estrutura da aplicação do salão
         </a>
       </header>
     </div>
