@@ -1,0 +1,53 @@
+.inicial-container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+.inicial-container .menu {
+    width: 100%;
+    padding: 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inicial-container .menu section {
+    width: 100%;
+    max-width: 380px;
+}
+
+.inicial-container .content {
+
+    width: 100%;
+    padding: 96px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.inicial-container .content section {
+
+    margin: 10px ;
+    font-size: 60px;
+ 
+}
+
+.inicial-container .content button {
+    width: 30%;
+    height: 60%;
+    background:#9B51E0;
+    border: 0;
+    border-radius: 8px;
+    color: #FFF;
+    font-weight: 700;
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 60px;
+    transition: filter 0.2s;
+}
